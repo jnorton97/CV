@@ -1,0 +1,72 @@
+body {
+  display: flex;
+  flex-flow: row nowrap;
+  font-family: 'Karla', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  display: flex;
+  flex-basis: 100%;
+  margin-bottom: 0px;
+}
+
+
+h3 {
+  display: flex;
+  flex-basis: 100%;
+}
+
+h4 {
+  margin: 21px 0 21px;
+}
+
+h5{
+  color: #279AFF;
+  margin: 10px 0 0 0;
+}
+
+.box_1 {
+  display: flex;
+  flex-flow: column;
+  padding: 2rem;
+  background-color: #2A3443;
+  color: #FFFFFF;
+  width: 33%;
+}
+
+.github_link {
+  color: #FFFFFF;
+}
+
+.hr_1 {
+  border-color: #279AFF;
+  margin: 40px 0 40px 0;
+  height: 0;
+  width: 100%;
+}
+
+
+.box_2 {
+  color: #313C4D;
+  padding: 20px;
+  width: auto;
+}
+
+.box_2_sub {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.box_2_sub_headers {
+  display: flex;
+  flex-basis: 100%;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.subtitle-attach-right {
+  margin: 21px 0 21px 0;
+}
