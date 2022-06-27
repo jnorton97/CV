@@ -37,6 +37,10 @@ h5{
   width: 33%;
 }
 
+.email {
+word-break: break-all;
+}
+
 .github_link {
   color: #FFFFFF;
 }
